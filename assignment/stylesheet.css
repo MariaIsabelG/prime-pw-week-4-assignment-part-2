@@ -1,0 +1,16 @@
+body{
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+header{
+    background-color: #90af34;
+}
+.info{
+    background-color: #67abef;
+    color: #3418eb
+}
+.carinfo{
+    background-color: #771e2d;
+    color: aliceblue;
+}
