@@ -1,16 +1,23 @@
+
 body{
-    position: absolute;
-    left: 0;
-    right: 0;
+    width: 100%;
 }
 header{
     background-color: #90af34;
+    padding-left: 10px;
 }
 .info{
     background-color: #67abef;
-    color: #3418eb
+    color: #3418eb;
+    padding-left: 10px;
 }
 .carinfo{
     background-color: #771e2d;
     color: aliceblue;
+    padding-left: 10px;
+}
+.border{
+    border-style: dotted;
+    border-width: 4px;
+    border-color: black;
 }
