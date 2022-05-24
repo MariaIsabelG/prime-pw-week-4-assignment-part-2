@@ -9,11 +9,15 @@ header{
     background-color: #67abef;
     color: #3418eb;
     padding-left: 10px;
+    text-align: center;
 }
 .carinfo{
     background-color: #771e2d;
     color: aliceblue;
     padding-left: 10px;
+}
+.alignment{
+    text-align: center;
 }
 
 
